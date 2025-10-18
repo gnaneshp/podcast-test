@@ -7,4 +7,4 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: python installation
-        uses: actions/podcast_testing@main
+        uses: gnaneshp/podcast_testing@main
